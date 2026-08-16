@@ -8,7 +8,7 @@ Existing schemes are useful comparators, not endorsements of Custodian Safe Pass
 ## S-001 — Liverpool Village Angels pilot
 
 **Primary source:** Merseyside Police, “Merseyside Police and Police Commissioner supports new Liverpool ‘Village Angels’ scheme,” published February 2026.  
-**Source:** https://www.merseysyside.police.uk/news/merseyside/news/2026/february-2026/merseyside-police-and-police-commissioner-supports-new-liverpool-village-angels-scheme/
+**Source:** https://www.merseyside.police.uk/news/merseyside/news/2026/february-2026/merseyside-police-and-police-commissioner-supports-new-liverpool-village-angels-scheme/
 
 ### What the source shows
 
@@ -34,7 +34,7 @@ Support for Village Angels does not imply support, approval or transferability f
 ## S-002 — Merseyside Police Support Volunteer assurance process
 
 **Primary source:** Merseyside Police, “Police support volunteers.”  
-**Source:** https://www.merseysyside.police.uk/police-forces/merseyside-police/areas/careers/join-us/Police_Support_Volunteers/
+**Source:** https://www.merseyside.police.uk/police-forces/merseyside-police/areas/careers/join-us/Police_Support_Volunteers/
 
 ### What the source shows
 
@@ -57,7 +57,7 @@ Police Support Volunteers operate inside a police force under police governance.
 ## S-003 — Community Safety Accreditation Scheme governance logic
 
 **Primary source:** Merseyside Police, “Our services — Development of Community Safety Accreditation Schemes.”  
-**Source:** https://www.merseysyside.police.uk/police-forces/merseyside-police/areas/au/about-us/our-services/
+**Source:** https://www.merseyside.police.uk/police-forces/merseyside-police/areas/au/about-us/our-services/
 
 ### What the source shows
 
