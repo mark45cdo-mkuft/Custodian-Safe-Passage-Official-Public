@@ -9,7 +9,7 @@ This log exists so that the project can show how it is developing without publis
 
 Updates are made when the project changes materially. Routine internal work does not need a public entry merely to create activity.
 
-## Current public development baseline — mid-August 2026
+## Current public development baseline — late August 2026
 
 ### Completed / established so far
 
@@ -20,6 +20,7 @@ Updates are made when the project changes materially. Routine internal work does
 - completed initial exploratory contact and discussion with relevant policing and community-safety contacts to test the proposal against practical operational, safeguarding and accountability questions;
 - received practical feedback through tri-service and veteran contacts, adding service, responsibility, community-support and public-facing experience to the development process;
 - folded that external feedback into the project design, sharpening the civilian role, volunteer boundaries, safeguarding expectations, escalation and handover routes, accountability questions and pre-pilot conditions;
+- recorded a change in the policing/community-safety consultation route: a planned follow-up meeting on 25 August did not go ahead, and Police Scotland confirmed that the project details had been forwarded to **Safer Communities** for the next stage of discussion;
 - defined request handling around need, safeguarding requirements and safe deliverability;
 - defined Custodian Systems as a supporting technical and administrative partner while keeping Safe Passage's safeguarding mission and operating decisions distinct;
 - retained the project at pre-pilot status while the professional and operational prerequisites remain unresolved;
@@ -27,13 +28,17 @@ Updates are made when the project changes materially. Routine internal work does
 
 ### External engagement and feedback
 
-By mid-August 2026, exploratory discussions and meetings had taken place with relevant policing and community-safety contacts as part of testing the proposal against real operational, safeguarding and accountability questions.
+By late August 2026, exploratory discussions and meetings had taken place with relevant policing and community-safety contacts as part of testing the proposal against real operational, safeguarding and accountability questions.
+
+A planned follow-up meeting on **25 August 2026** did not go ahead. Police Scotland subsequently confirmed that the project details had been forwarded to **Safer Communities**, as discussed. The next policing/community-safety consultation route is therefore through Safer Communities rather than the cancelled meeting.
+
+This is recorded as a development-route update only. It does **not** imply formal partnership, endorsement, approval, adoption or a commitment by Police Scotland or Safer Communities.
 
 Feedback and discussion had also taken place through tri-service and veteran contacts, bringing practical experience from people familiar with service, responsibility, public-facing roles and community support.
 
 These conversations have already changed the design. They have helped sharpen the civilian role of the project, volunteer boundaries, safeguarding expectations, escalation and handover routes, accountability questions, and the conditions that need to be resolved before a pilot is ready.
 
-Follow-up conversations and meetings are continuing or planned as the operating framework becomes more concrete. Material lessons will be folded back into the design and, where useful, reflected here at principle level.
+Further discussion and external review will continue as the operating framework becomes more concrete. Material lessons will be folded back into the design and, where useful, reflected here at principle level.
 
 These contacts are development inputs. They do not by themselves imply formal partnership, endorsement, approval or institutional adoption.
 
@@ -45,20 +50,20 @@ These contacts are development inputs. They do not by themselves imply formal pa
 - volunteer eligibility, identity assurance, role-appropriate vetting, training and removal procedures;
 - complaints, incident and near-miss reporting routes;
 - police, safeguarding, healthcare/pharmacy and specialist-service referral or activity boundaries where relevant;
-- continued external discussion and review as the operating model is narrowed into a pilot-ready framework;
+- continued external discussion and review, including follow-up through Safer Communities, as the operating model is narrowed into a pilot-ready framework;
 - definition of a small pilot area, initial service scope, capacity, review point and stop conditions.
 
 ### Current stage
 
 Pilot service delivery has not begun. The descriptions above state the intended purpose, candidate service types and current development progress, not current operational readiness.
 
-The project is **past the internal-concept-only stage**. It now has a structured public framework, an initial governance and safeguarding model, and real external discussion and feedback from relevant policing/community-safety and tri-service/veteran contacts. That feedback is being used to refine the design before a bounded pilot is proposed.
+The project is **past the internal-concept-only stage**. It now has a structured public framework, an initial governance and safeguarding model, and real external discussion and feedback from relevant policing/community-safety and tri-service/veteran contacts. The policing/community-safety route has now moved from the cancelled 25 August follow-up meeting to referral through **Safer Communities**. External feedback continues to be used to refine the design before a bounded pilot is proposed.
 
 The next development stage is to continue converting external feedback into a professionally reviewed pilot framework while closing the remaining safeguarding, legal, insurance, data-protection, volunteer-assurance and delivery prerequisites.
 
 ### Next public update
 
-The next entry should record a **material stage change**: for example a substantive follow-up engagement or external review being completed, a governance or safeguarding question being resolved, a bounded pilot framework being defined, or a decision to narrow, pause or materially redesign part of the proposal.
+The next entry should record a **material stage change**: for example substantive follow-up through Safer Communities or another external review being completed, a governance or safeguarding question being resolved, a bounded pilot framework being defined, or a decision to narrow, pause or materially redesign part of the proposal.
 
 Broad timing such as `early`, `mid` or `late` month/year may be used where it helps show development sequence. Personal names, exact meeting dates and meeting locations are not required for the public record unless there is a specific and proportionate reason to publish them.
 
