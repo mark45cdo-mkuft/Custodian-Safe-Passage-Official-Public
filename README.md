@@ -2,7 +2,7 @@
 
 **A proposed community-support and safe-accompaniment initiative for ordinary needs that can become difficult to manage alone.**
 
-**Current status:** public-development copy · pre-pilot · external consultation and framework refinement · not recruiting
+**Current status:** public-development copy · pre-pilot · external consultation and feasibility review · not recruiting
 
 > **Pre-pilot note:** the service model is still being developed. Details may change as safeguarding, legal, insurance, data-protection and delivery work progresses.
 
@@ -19,11 +19,13 @@ The programme is intended to sit **before the point at which police, emergency, 
 
 ## Development stage
 
-By **mid-August 2026**, the project had moved beyond an internal concept into a structured public framework and external feedback stage.
+By **early September 2026**, the project had moved beyond an internal concept into a structured public framework and external feedback stage.
 
-Exploratory discussions and meetings have taken place with relevant policing and community-safety contacts, and practical feedback has also been received through tri-service and veteran contacts. Those conversations have already informed the design, particularly around the civilian role, safeguarding, volunteer boundaries, accountability, escalation and handover.
+Exploratory discussions and meetings have taken place with relevant policing and community-safety contacts, and practical feedback has also been received through tri-service and veteran contacts. Those conversations have informed the design around the civilian role, safeguarding, volunteer boundaries, accountability, escalation and handover, and have also sharpened a more fundamental question that was part of the project from the outset: whether a deliberately bounded service can make or support an initial connection without then having to own every ordinary human relationship that may naturally develop from it.
 
-Follow-up engagement is continuing or planned while that feedback is converted into a bounded, professionally reviewed pilot framework. These contacts are development inputs and do not by themselves imply formal partnership, endorsement, approval or institutional adoption.
+That question is now under active feasibility review. The issue is not whether people helping one another has value. It is whether the organisational boundary can remain responsible and durable without either leaving unacceptable safeguarding and liability gaps or becoming so intrusive that it changes the human support the project was intended to enable.
+
+For that reason, the next step is not to force the existing model into a pilot timetable. External consultation will continue while the project tests whether a responsible, genuinely bounded form can hold in practice. These contacts are development inputs and do not by themselves imply formal partnership, endorsement, approval or institutional adoption.
 
 ## Proposed service shape
 
