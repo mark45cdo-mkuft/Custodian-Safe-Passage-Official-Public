@@ -2,9 +2,9 @@
 
 **A proposed community-support and safe-accompaniment initiative for ordinary needs that can become difficult to manage alone.**
 
-**Current status:** public-development copy · pre-pilot · external consultation and feasibility review · not recruiting
+**Current status (November 2026):** development on hold · pre-pilot · not recruiting · no active service
 
-> **Pre-pilot note:** the service model is still being developed. Details may change as safeguarding, legal, insurance, data-protection and delivery work progresses.
+> **November 2026 hold:** The initiative is on hold at pre-pilot stage. No volunteer recruitment, service requests or pilot delivery are operating; no restart date is set. Existing research, consultation and governance work are retained, without implying current operational progress.
 
 Custodian Safe Passage is being developed as a small, bounded community-support programme. The core idea is simple: when someone is vulnerable, isolated or would benefit from a reassuring second person, a suitably verified and trained volunteer team may be able to provide calm, practical human support within a clearly defined role.
 
@@ -19,13 +19,16 @@ The programme is intended to sit **before the point at which police, emergency, 
 
 ## Development stage
 
+**Current position — November 2026:** Development is paused. The feasibility and organisational-responsibility questions described below remain unresolved. Earlier discussions and the proposed service design form the retained historical record, not an active consultation or launch programme. The mission is unchanged; work may resume only when a responsible route is established.
+
+
 By **early September 2026**, the project had moved beyond an internal concept into a structured public framework and external feedback stage.
 
 Exploratory discussions and meetings have taken place with relevant policing and community-safety contacts, and practical feedback has also been received through tri-service and veteran contacts. Those conversations have informed the design around the civilian role, safeguarding, volunteer boundaries, accountability, escalation and handover, and have also sharpened a more fundamental question that was part of the project from the outset: whether a deliberately bounded service can make or support an initial connection without then having to own every ordinary human relationship that may naturally develop from it.
 
 That question is now under active feasibility review. The issue is not whether people helping one another has value. It is whether the organisational boundary can remain responsible and durable without either leaving unacceptable safeguarding and liability gaps or becoming so intrusive that it changes the human support the project was intended to enable.
 
-For that reason, the next step is not to force the existing model into a pilot timetable. External consultation will continue while the project tests whether a responsible, genuinely bounded form can hold in practice. These contacts are development inputs and do not by themselves imply formal partnership, endorsement, approval or institutional adoption.
+For that reason, the project has been placed on hold rather than forced into a pilot timetable. Its previous external consultation remains recorded; any renewed review would first test whether a responsible, genuinely bounded form can hold in practice. These contacts are development inputs and do not by themselves imply formal partnership, endorsement, approval or institutional adoption.
 
 ## Proposed service shape
 

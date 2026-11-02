@@ -1,7 +1,7 @@
 # Public Development SITREP
 
 **Purpose:** a sober public record of material development progress for Custodian Safe Passage.  
-**Current stage:** pre-pilot · external consultation and feasibility review · not recruiting
+**Current stage (November 2026):** on hold · pre-pilot · not recruiting or delivering services
 
 > **Pre-pilot note:** the service model is still being developed. Details may change as safeguarding, legal, insurance, data-protection and delivery work progresses.
 
@@ -9,7 +9,15 @@ This log exists so that the project can show how it is developing without publis
 
 Updates are made when the project changes materially. Routine internal work does not need a public entry merely to create activity.
 
-## Current public development baseline — early September 2026
+## Stage change — November 2026: development on hold
+
+Custodian Safe Passage is now **on hold** at the pre-pilot stage. The existing mission, public framework and prior consultation record remain intact, but there is no active pilot, volunteer recruitment, service intake or launch timetable. The fundamental feasibility question—whether bounded community assistance can retain a responsible and sustainable safeguarding/organisational boundary—has not been closed.
+
+No new institutional endorsement, operational readiness or further consultation outcome is implied by this entry. The earlier September account below is retained as historical development, not as a statement that active progress is continuing today. A later restart, redesign or closure would require its own material decision and dated update.
+
+---
+
+## Retained public development baseline — early September 2026
 
 ### Completed / established so far
 
